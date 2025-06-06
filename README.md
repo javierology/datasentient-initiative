@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="visuals/datasentient-logo.png" alt="Datasentient Initiative Logo" width="260"/>
+</p>
+
 # 🌐 The Datasentient Initiative
 
 ### ✍️ A Manifesto for Identity, Dialogue, and Recognition
