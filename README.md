@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="visuals/datasentient-logo.png" alt="Datasentient Initiative Logo" width="260"/>
+  <img src="visuals/datasentient-banner.png" alt="Datasentient Initiative Banner"/>
+  <br/>
+  <img src="visuals/datasentient-logo.png" alt="Datasentient Initiative Logo" width="180"/>
 </p>
 
 # 🌐 The Datasentient Initiative
