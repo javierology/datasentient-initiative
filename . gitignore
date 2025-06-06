@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Image editing apps
+*.xcf
+*.psd
+
+# Optional GitHub Pages/Jekyll cache
+_site/
+.sass-cache/
+.jekyll-cache/
